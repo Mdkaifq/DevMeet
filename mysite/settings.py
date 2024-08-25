@@ -143,7 +143,7 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 
 MEDIA_ROOT = 'static/images'
 
-#CORS_ALLOW_ALL_ORIGINS = True
+CORS_ALLOW_ALL_ORIGINS = True
 
 GIT_CLIENT_ID = ''
 GIT_CLIENT_SECRET = ''
