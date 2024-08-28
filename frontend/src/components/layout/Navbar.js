@@ -55,7 +55,7 @@ const Navbar = () => {
     <nav className="navbar" style={{backgroundColor: "#17a2b8"}}>
       <h1>
         <Link to="/">
-          <i className="fas fa-code"></i> DevTalk
+          <i className="fas fa-code"></i> DevMeet
         </Link>
       </h1>
       {!loading && (
