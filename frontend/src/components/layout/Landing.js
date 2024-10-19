@@ -12,7 +12,6 @@ const Landing = () => {
     <div className="landing">
       <div className="dark-overlay">
         <div className="landing-inner">
-          <h1 className="x-large">Developer's Meet</h1>
           <p className="lead">
             Create a developer profile/portfolio, share posts and get help from
             other developers
