@@ -5,7 +5,7 @@ function Footer() {
     <div><footer className='footer' >
         
        
-        © 2024 Md Kaif Qureshi. All Rights Reserved
+        Created by Md Kaif Qureshi | © All Rights Reserved
      
         </footer></div>
   )
